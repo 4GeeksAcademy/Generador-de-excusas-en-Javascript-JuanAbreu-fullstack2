@@ -39,3 +39,10 @@ document.querySelectorAll("button[data-choice]").forEach(btn => {
     });
 });
 
+/// me han recomendado hacer solo lo que se hacer por mi mismo! 
+
+// he comentado que lo de los botones lo he hecho con inteligencia artificial y que me explicara lo que pasaba
+
+// pero me han preguntado sobre una cosa y no he sabido responder 
+
+// seguire sus consejos y la proxima vez no usare inteligencia artificial para agregar algo que no tengo claro
