@@ -15,7 +15,7 @@ const jugar = (userChoice) => {
     if (userChoice === computerChoice) {
         resultado = "Empate";
         color = "orange";
-    } else if (rules[userChoice].includes(computerChoice)) {
+    } else if(rules[userChoice].includes(computerChoice)) {
         resultado = "Ganaste";
         color = "green";
     } else {
@@ -38,13 +38,4 @@ document.querySelectorAll("button[data-choice]").forEach(btn => {
         jugar(choice);
     });
 });
-
-
-
-
-
-
-
-
-
 

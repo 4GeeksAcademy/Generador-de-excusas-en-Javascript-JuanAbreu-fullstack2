@@ -26,7 +26,7 @@ Cada vez que cambies cualquier archivo dentro de la carpeta `./src`, la URL púb
 
 Agrégalas dentro de la carpeta `./src/assets/img` y luego impórtalas desde cualquiera de tus archivos JS. Ejemplo: `import "../assets/img/rigo-baby.jpg";`.
 
-### ¿Cómo incluyo más archivos JS?
+### ¿Cómo incluyo más archivos JS?npm install
 
 Simplemente agrega los archivos en la carpeta src e importa los archivos/variables en tu app.js. Ejemplo: `import myVar from "./file2.js"`.
 
